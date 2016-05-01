@@ -1,7 +1,7 @@
 name: Ramos
 favicon: null
-layout_spectrum: 0.49256322206929326
-typography_spectrum: 0.9116789023391902
+layout_spectrum: 1
+typography_spectrum: 0.05908
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4891666213516146
-  lightness: 0.9184798507485539
-  saturation: 0.18995824013836682
-  rhythmicContrast: 0.17136277328245342
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
