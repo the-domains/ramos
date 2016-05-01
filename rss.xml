@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ramos]]></title>
+        <description><![CDATA[Ramos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 13:37:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["La mano visible" aka The Visible Hand | Sundance Short Film Challenge]]></title>
+            <description><![CDATA[<article><h1>"La mano visible" aka The Visible Hand | Sundance Short Film Challenge</h1><p>Romina goes to Silvina's to give her a haircut. They met through an online platform that connects people offering and looking for services of all kinds. Directed by Gael García Bernal.</p></article>]]></description>
+            <link>https://vimeo.com/116908919</link>
+            <guid isPermaLink="false">c8455380-74b5-4abc-8685-76ec52f6f505</guid>
+            <pubDate>Sun, 01 May 2016 13:37:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
