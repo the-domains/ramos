@@ -4,8 +4,15 @@
         <description><![CDATA[Ramos]]></description>
         <link>https://thegrid.ai/ramos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 03:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 12:04:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ramos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silversun Pickups - Lazy Eye]]></title>
+            <description><![CDATA[<article><h1>Silversun Pickups - Lazy Eye</h1><p>Music video by Silversun Pickups performing Lazy Eye. (C) 2006 Dangerbird Records</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DYd57rkvnpQ</link>
+            <guid isPermaLink="false">1e0a6e16-326e-4ac5-b6d9-f9a4a38bc240</guid>
+            <pubDate>Wed, 04 May 2016 12:04:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Baauer | GoGo!]]></title>
             <description><![CDATA[<article><h1>Baauer | GoGo!</h1><p>Directed by Thomas Rhazi * Produced by DIVISION™ for LuckyMe Records * Post by Home Digital Pictures * VFX by Mathematic ► AWARD ► Club des DA 2016 | In Book | Art Direction for Music Videos * iTunes → http://smarturl.it/LM036S01 Spotify → http://smarturl.it/LM036S01SPT</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52ca582edc79cd161ff9464228adcaf15ac650ef.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ntK26Z43g9g</link>
             <guid isPermaLink="false">8a7420dd-c7f9-4113-ba02-0c89564147fe</guid>
             <pubDate>Tue, 03 May 2016 12:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F3QV8cOmsTdI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3QV8cOmsTdI&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F3QV8cOmsTdI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=3QV8cOmsTdI</link>
-            <guid isPermaLink="false">568a0657-e9de-47e9-873a-d0a98520dc0b</guid>
-            <pubDate>Tue, 03 May 2016 12:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
