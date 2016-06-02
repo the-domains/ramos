@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A coincidence or a trap Special moment or a slap
-datePublished: '2016-06-02T01:40:58.789Z'
-dateModified: '2016-06-02T01:40:34.494Z'
-title: ''
-author: []
+datePublished: '2016-06-02T02:30:24.046Z'
+dateModified: '2016-06-02T02:29:57.592Z'
+title: AlunaGeorge - I Remember
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-02-a-coincidence-or-a-trap-special-moment-or-a-slap.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-02-a-coincidence-or-a-trap-special-moment-or-a-slap.md
 url: a-coincidence-or-a-trap-special-moment-or-a-slap/index.html
 _type: Article
 
